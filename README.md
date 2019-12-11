@@ -6,3 +6,5 @@
 
 [@1.03 show time mp4](https://cdn.jsdelivr.net/gh/lee981265/CDN@1.03/aa6727c2e3a3b42f8d494e4cb93dde65.mp4)
 
+[@1.04 2020 mp4](https://cdn.jsdelivr.net/gh/lee981265/CDN@1.04/video/2020.mp4)
+
